@@ -1,0 +1,12 @@
+✓ Data loading and inspection
+✓ Handling missing values
+✓ Feature engineering
+✓ Encoding categorical variables
+✓ Train/test splitting
+✓ Scaling
+✓ Building a neural net in PyTorch
+✓ Diagnosing overfitting
+✓ Early stopping
+✓ Hyperparameter tuning with Optuna
+✓ Comparing neural nets vs classical ML
+✓ Reading classification reports and feature importances
